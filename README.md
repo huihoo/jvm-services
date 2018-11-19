@@ -8,13 +8,19 @@ Java(JVM)是最大的开发者语言和应用平台，我们将帮助更多朋�
 
 ![ilovecoffee](https://wiki.huihoo.com/images/c/c9/I-love-coffee-680x100.jpg)
 
-我们整理了一些网络上比较系统化的Java文章，主要来自IBM developerWorks，IBM是Java语言最重要的参与者和推动者。文章虽然有点老，但包含的Java基本思想和基础知识依然有用，个人觉得对大家仍很有参考价值。
-
-大家可在这些内容上继续展开和深入。
+### 生态系统（ecosystem）
+* [Java ecosystem](https://wiki.huihoo.com/wiki/Java_ecosystem)
+* [Scala ecosystem](https://wiki.huihoo.com/wiki/Scala_ecosystem)
+* [Clojure ecosystem](https://wiki.huihoo.com/wiki/Clojure_ecosystem)
+* [Kotlin ecosystem](https://wiki.huihoo.com/wiki/Kotlin_ecosystem)
 
 ### 深入Java虚拟机（JVM）
 
 深入理解Java虚拟机能帮助我们更好的驾驭Java语言和JVM生态系统，它是资深Java技术专家的必由之路。
+
+我们整理了一些网络上比较系统化的Java文章，主要来自IBM developerWorks，IBM是Java语言最重要的参与者和推动者。文章虽然有点老，但包含的Java基本思想和基础知识依然有用，个人觉得对大家仍很有参考价值。
+
+大家可在这些内容上继续展开和深入。
 
 ### Java 理论与实践
 
