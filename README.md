@@ -4,13 +4,13 @@
 
 ### 本课程的初衷和目标
 
-Java(JVM)是最大的开发者语言和应用平台，我们将帮助更多朋友些学习掌握Java编程和DevOps技能，在技术世界里找到更多机会和自省！
+Java(JVM)是最大的开发者语言和应用平台，我们将帮助更多朋友学习掌握Java编程和DevOps技能，在技术世界里找到更多机会和自信！
 
 ![ilovecoffee](https://wiki.huihoo.com/images/c/c9/I-love-coffee-680x100.jpg)
 
-我们整理了一些网络上比较系统化的Java文章，主要来自IBM developerWorks，IBM是Java语言最重要的参与者和推动者。文章虽然有点老，但包含的Java基本思想和基础知识依然有用，个人觉得对大家仍很有参考价值。
+我们整理了一些网络上比较系统化的Java文章，主要来自IBM developerWorks，IBM是Java语言最重要的参与者和推动者。文章虽然有点老，但包含的Java基本思想和基础知识依然有用，个人觉得对大家仍很有参考价值。
 
-大家可在这些内容上继续展开和深入。
+大家可在这些内容上继续展开和深入。
 
 ### 深入Java虚拟机（JVM）
 
@@ -142,21 +142,18 @@ Gartner Group : 70% of Java projects fail due to lack of skills
 
 There are 2.5 Million Java developers in the world. Only 800,000 of them have genuine knowledge. 70 percent of these developers agree that the lack of advanced Java skills makes adoption of EJB/J2EE risky. ... 
 
-
 [灰狐2004 Java 培训课程](java-training-2004/README.md)
-
 
 ## 许可方式 License
 
-courses和slides采用CC
+课程和课件采用CC
 
 [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
 
-src采用Apache v2
+代码采用Apache v2
 
- 
 ## 赞助与支持
-本教程为免费教程，若需要得到更多技术支持，可通过赞助我们的方式获得。
+本服务教程为免费教程，若需要得到更多技术支持，可通过赞助我们的方式获得。
 
 ![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)
 
