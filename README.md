@@ -4,15 +4,17 @@
 
 ### 本课程的初衷和目标
 
-Java(JVM)是最大的开发者语言和应用平台，我们将帮助更多朋友学习掌握Java编程和DevOps技能，在技术世界里找到更多机会和自信！
+Java(JVM)是最大的开发者语言和应用平台，我们一起交流、学习、掌握Java(JVM)语言和DevOps技能，在技术世界里找到更多机会和自信！
 
 ![ilovecoffee](https://wiki.huihoo.com/images/c/c9/I-love-coffee-680x100.jpg)
 
 ### 生态系统（ecosystem）
-* [Java ecosystem](https://wiki.huihoo.com/wiki/Java_ecosystem)
-* [Scala ecosystem](https://wiki.huihoo.com/wiki/Scala_ecosystem)
-* [Clojure ecosystem](https://wiki.huihoo.com/wiki/Clojure_ecosystem)
-* [Kotlin ecosystem](https://wiki.huihoo.com/wiki/Kotlin_ecosystem)
+![awesome](https://wiki.huihoo.com/images/1/13/Awesome.png)
+* [Awesome Java](https://github.com/akullpp/awesome-java) 和 [Java ecosystem](https://wiki.huihoo.com/wiki/Java_ecosystem)
+* [Awesome Scala](https://github.com/lauris/awesome-scala) 和 [Scala ecosystem](https://wiki.huihoo.com/wiki/Scala_ecosystem)
+* [Awesome Clojure](https://github.com/razum2um/awesome-clojure) 和 [Clojure ecosystem](https://wiki.huihoo.com/wiki/Clojure_ecosystem)
+* [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) 和 [Kotlin ecosystem](https://wiki.huihoo.com/wiki/Kotlin_ecosystem)
+* [Awesome Groovy](https://github.com/kdabir/awesome-groovy)
 
 ### 深入Java虚拟机（JVM）
 
