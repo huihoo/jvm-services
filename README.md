@@ -152,6 +152,9 @@ There are 2.5 Million Java developers in the world. Only 800,000 of them have ge
 
 [灰狐2004 Java 培训课程](java-training-2004/README.md)
 
+## 关联外部项目
+* git submodule add https://github.com/aalansehaiyang/java8-tutorial java8-tutorial
+
 ## 许可方式 License
 
 课程和课件采用CC
