@@ -4,3 +4,6 @@
 [submodule "spring/SpringBoot-Learning"]
 	path = spring/SpringBoot-Learning
 	url = https://github.com/dyc87112/SpringBoot-Learning
+[submodule "java/technology-talk"]
+	path = java/technology-talk
+	url = https://github.com/aalansehaiyang/technology-talk
