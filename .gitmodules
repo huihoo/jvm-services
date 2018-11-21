@@ -1,3 +1,6 @@
 [submodule "java8-tutorial"]
 	path = java8-tutorial
 	url = https://github.com/aalansehaiyang/java8-tutorial
+[submodule "spring/SpringBoot-Learning"]
+	path = spring/SpringBoot-Learning
+	url = https://github.com/dyc87112/SpringBoot-Learning
