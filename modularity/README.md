@@ -62,7 +62,7 @@ OSGi规范的核心组件是OSGi框架。该框架为应用程序（被成为bun
 ### Karaf
 Apache Karaf 是一个轻量的的 OSGi 运行时，被用于众多开源项目中，如：[ONOS (Open Network Operating System) ](http://onosproject.org/), [OpenDaylight](http://www.opendaylight.org/), [OpenHAB](http://www.openhab.org/), [Liferay](https://www.liferay.com/), [Nexus](http://www.sonatype.com/), [Talend](http://www.talend.com/)。
 
-Apache Karaf提供了一个可升级、模块化的企业级应用平台，你可以专注于自己的业务和应用，Karaf帮助搞定其它部分，你也可通过Karaf开发基于OSGi架构的微服务。 
+Apache Karaf提供了一个可升级、模块化的企业级应用平台，你可以专注于自己的业务和应用，Karaf帮助搞定其它部分，你也可通过Karaf开发基于OSGi架构的微服务。 
 
 DevOps：OSGi - Dev 和 Karaf - Ops 
 * Runtime: Karaf Runtime 
