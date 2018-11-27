@@ -59,6 +59,17 @@ OSGi规范的核心组件是OSGi框架。该框架为应用程序（被成为bun
 * L2: 组件生命周期管理
 * L3: 服务注册
 
+### Karaf
+Apache Karaf 是一个轻量的的 OSGi 运行时，被用于众多开源项目中，如：[ONOS (Open Network Operating System) ](http://onosproject.org/), [OpenDaylight](http://www.opendaylight.org/), [OpenHAB](http://www.openhab.org/), [Liferay](https://www.liferay.com/), [Nexus](http://www.sonatype.com/), [Talend](http://www.talend.com/)。
+
+Apache Karaf提供了一个可升级、模块化的企业级应用平台，你可以专注于自己的业务和应用，Karaf帮助搞定其它部分，你也可通过Karaf开发基于OSGi架构的微服务。 
+
+DevOps：OSGi - Dev 和 Karaf - Ops 
+* Runtime: Karaf Runtime 
+* Clustering: Karaf Cellar 
+* Repository: Karaf Cave 
+* Monitoring: Karaf Decanter
+
 ### 文档
 * [Project Jigsaw: Under the Hood](http://docs.huihoo.com/javaone/2015/CON6823-Project-Jigsaw-Under-the-Hood.pdf)
 * [Migrating Java UI Client Apps to the Modular JDK](http://docs.huihoo.com/javaone/2015/CON4384-Migrating-Java-UI-Client-Apps-to-the-Modular-JDK.pdf)
@@ -68,6 +79,7 @@ OSGi规范的核心组件是OSGi框架。该框架为应用程序（被成为bun
 * [OSGi: Simplifying the IoT Gateway](http://docs.huihoo.com/eclipse/eclipsecon/europe2015/OSGi-Simplifying-the-IoT-Gateway.pdf)
 * [Building Modular Cloud Applications with OSGi](http://docs.huihoo.com/javaone/2015/TUT2489-Building-Modular-Cloud-Applications-with-OSGi.pdf)
 * [Using OSGi to Build Better Software](http://docs.huihoo.com/apache/apachecon/us2011/11-Friday/A-Modular-Java/A-1530-Using-OSGi-to-Build-Better-Software.ppt)
+* [Microservices with OSGi](https://docs.huihoo.com/microservices/Microservices-with-OSGi.pdf)
 
 ### 图集
 ![JDK 9 Modules](https://wiki.huihoo.com/images/6/63/JDK-9-Modules.png)JDK 9 Modules
@@ -76,7 +88,12 @@ OSGi规范的核心组件是OSGi框架。该框架为应用程序（被成为bun
 
 ![OSGi容器安全](https://wiki.huihoo.com/images/4/48/Osgi-container-security-architecture.gif)OSGi容器安全
 
+![kafaf](https://wiki.huihoo.com/images/b/b8/Apache-kafaf.png)Apache Karaf
+
+![microservices](https://wiki.huihoo.com/images/4/48/Microservices-with-osgi.png)Microservices with OSGi
+
 ### 链接
 * [Awesome OSGi](https://github.com/rebaze/awesome-osgi) ![awesome](https://wiki.huihoo.com/images/1/13/Awesome.png)
 * [OSGi官网](http://www.osgi.org/)
 * [OSGi中文社区](http://www.osgi.com.cn/)
+* [Apache Karaf](https://karaf.apache.org/)
