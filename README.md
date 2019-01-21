@@ -16,6 +16,11 @@ Java(JVM)是最大的开发者语言和应用平台，我们一起交流、学�
 * [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) 和 [Kotlin ecosystem](https://wiki.huihoo.com/wiki/Kotlin_ecosystem)
 * [Awesome Groovy](https://github.com/kdabir/awesome-groovy)
 
+### Java指南
+![guide](https://wiki.huihoo.com/images/6/69/JavaGuide.png)
+
+[Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)，一份涵盖大部分Java程序员所需要掌握的核心知识，一个不错的开始。
+
 ### 深入Java虚拟机（JVM）
 
 深入理解Java虚拟机能帮助我们更好的驾驭Java语言和JVM生态系统，它是资深Java技术专家的必由之路。
