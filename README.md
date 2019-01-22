@@ -30,7 +30,12 @@ Java(JVM)是最大的开发者语言和应用平台，我们一起交流、学�
 
 深入理解[Java虚拟机](jvm/README.md)能帮助我们更好的驾驭Java语言和JVM生态系统，它是资深Java技术专家的必由之路。
 
-我们整理了一些网络上比较系统化的Java文章，主要来自IBM developerWorks，IBM是Java语言最重要的参与者和推动者。文章虽然有点老，但包含的Java基本思想和基础知识依然有用，个人觉得对大家仍很有参考价值。
+### 编码规范
+程序员最主要的工作就是编码，而编码规范就是程序员的Coding准则。
+* [Google Style Guides](https://github.com/google/styleguide), [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* [阿里巴巴Java开发手册（Alibaba Java Coding Guidelines）](https://github.com/alibaba/p3c)
+
+此外，我们还整理了一些网络上比较系统化的Java文章，主要来自IBM developerWorks，IBM是Java语言最重要的参与者和推动者。文章虽然有点老，但包含的Java基本思想和基础知识依然有用，个人觉得对大家仍很有参考价值。
 
 大家可在这些内容上继续展开和深入。
 
