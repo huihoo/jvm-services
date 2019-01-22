@@ -28,7 +28,7 @@ Java(JVM)是最大的开发者语言和应用平台，我们一起交流、学�
 
 ### 深入Java虚拟机（JVM）
 
-深入理解Java虚拟机能帮助我们更好的驾驭Java语言和JVM生态系统，它是资深Java技术专家的必由之路。
+深入理解[Java虚拟机](jvm)能帮助我们更好的驾驭Java语言和JVM生态系统，它是资深Java技术专家的必由之路。
 
 我们整理了一些网络上比较系统化的Java文章，主要来自IBM developerWorks，IBM是Java语言最重要的参与者和推动者。文章虽然有点老，但包含的Java基本思想和基础知识依然有用，个人觉得对大家仍很有参考价值。
 
@@ -146,7 +146,7 @@ Java(JVM)是最大的开发者语言和应用平台，我们一起交流、学�
 
 我们会在Gradle、Jenkins流水线、测试和电商新零售等行业应用对Groovy做深度展开。
 
-[Groovy程序设计与实践](groovy-training/README.md)
+[Groovy程序设计与实践](groovy)
 
 ## 2004年灰狐Java培训教程
 
